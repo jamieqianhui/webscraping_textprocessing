@@ -1,8 +1,8 @@
 # webscraping_textprocessing
 Basic web scraping &amp; text processing in Python
-<br>
+<br><br>
 In this python code, I covered the following: 
-<br>
+<br><br>
 **Part I: Web Scraping** <br>
 Crawled data from html webpage 
 <br><br>
